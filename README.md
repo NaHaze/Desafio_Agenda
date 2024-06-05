@@ -1,6 +1,6 @@
 
 ## Desafio
-Nesse desafio desenvolveremos uma agenda para <b>salvar, editar, deletar e marcar um contato como favorito.</b> </br>
+Nesse desafio o foco é a contrução de uma agenda para <b>salvar, editar, deletar e marcar um contato como favorito.</b> </br>
 O resultado da aplicação deve ser apresentado no terminal, assim como foi visto no módulo “Introdução ao Python”. </br>
 <b> Desafio proposto no curso de Python da Rocketseat 🚀 </b>
 
